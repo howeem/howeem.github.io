@@ -5,7 +5,10 @@ h1   {
   color: green;
   font-family: courier
 }
+h2 {
+  color: white;
+  font-family: courier
 p    {
   color: white;
-  font-family: verdana
+  font-family: courier
 }
