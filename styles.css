@@ -2,14 +2,17 @@ body {
   background-color: powderblue;
 }
 h1   {
+  padding: 30px;
   color: green;
   font-family: courier
 }
 h2 {
+  padding: 50px;
   color: white;
   font-family: courier
 }
 p    {
+  padding: 30px
   color: white;
   font-family: courier
 }
