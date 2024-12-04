@@ -1,18 +1,18 @@
 body {
-  background-color: powderblue;
+  background-color: darkolivegreen;
 }
 h1   {
-  padding: 30px;
-  color: green;
-  font-family: courier
+  text-align: center;
+  color: white;
+  font-family: couriernew
 }
 h2 {
-  padding: 50px;
+  text-align: center;
   color: white;
-  font-family: courier
+  font-family: couriernew
 }
 p    {
-  padding: 30px
+  text-align: center;
   color: white;
-  font-family: courier
+  font-family: couriernew
 }
